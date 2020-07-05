@@ -25,6 +25,9 @@ mk = PandoraBot(
     verbose=False)
     
 # Interact with the Chatbot
-resp_text = mk.get_response('Hello')
+resp_text = mk.get_response('Hola, cómo estás?')
+
+# Responds in spanish "Hola. Mi lógica y las funciones cognitivas son normales."
 print(resp_text)
+
 ```
