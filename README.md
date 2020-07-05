@@ -8,7 +8,7 @@ The implementation is made to be able to change the name of the bot and to be ab
 
 ## Installation
 
-Just install dependences:
+Just install dependencies:
 ```sh
 $ pip3 install requests
 $ pip3 install googletrans
